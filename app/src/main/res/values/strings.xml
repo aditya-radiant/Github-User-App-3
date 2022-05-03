@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="search_username">Search Username</string>
+    <string name="user_name">Username</string>
+    <string name="name">Name</string>
+    <string name="str_followers">Followers</string>
+    <string name="str_following">Following</string>
+    <string name="type">Type</string>
+    <string name="User_ID">ID</string>
+    <string name="GithubUser">Github Users</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="Switch">Switch</string>
+
+</resources>
